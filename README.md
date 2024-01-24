@@ -9,6 +9,7 @@ This repository is divided in 4 sections:
 3.  PDS4 creation from ndarray
 
 
-For LPR data use please cite paper xxxxxxxx. 
+For LPR data use please cite paper https://doi.org/10.1038/s41597-024-02963-4: 
+Roncoroni, G., Forte, E., Santin, I. et al. High frequency Lunar Penetrating Radar quality control, editing and processing of Chang’E-4 lunar mission. Sci Data 11, 118 (2024).
 
 For further information please contact groncoroni@units.it
